@@ -8,7 +8,7 @@ rules:
     punishment: варн → бан
     title: JAG
   '2.1':
-    description: This is new decription For RULE
+    description: AFASF
     punishment: мут 10 мин. → варн
     title: Флуд
   '3.1':
