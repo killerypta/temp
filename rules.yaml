@@ -6,9 +6,9 @@ rules:
   '1.2':
     description: Запрещается рассылка ссылок, приглашений и прочего без согласования.
     punishment: варн → бан
-    title: GFGHRD
+    title: Спам и реклама
   '2.1':
-    description: Чрезмерное количество сообщений подряд, бессмысленные символы и смайлы.
+    description: This is new decription For RULE
     punishment: мут 10 мин. → варн
     title: Флуд
   '3.1':
