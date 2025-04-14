@@ -6,7 +6,7 @@ rules:
   '1.2':
     description: Запрещается рассылка ссылок, приглашений и прочего без согласования.
     punishment: варн → бан
-    title: GGGG
+    title: Спам и реклама
   '2.1':
     description: This is new decription For RULE
     punishment: мут 10 мин. → варн
@@ -14,4 +14,4 @@ rules:
   '3.1':
     description: Обсуждение не по теме, оффтоп в тематических каналах.
     punishment: предупреждение → мут
-    title: Нарушение тематики
+    title: GHAGU
