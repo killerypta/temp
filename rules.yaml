@@ -12,6 +12,6 @@ rules:
     punishment: мут 10 мин. → варн
     title: Флуд
   '3.1':
-    description: GAGAGAGA
-    punishment: предупреждение → мут
+    description: Обсуждение не по теме, оффтоп в тематических каналах.
+    punishment: NONE
     title: Нарушение тематики
