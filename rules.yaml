@@ -6,7 +6,7 @@ rules:
   '1.2':
     description: Запрещается рассылка ссылок, приглашений и прочего без согласования.
     punishment: варн → бан
-    title: Спам и реклама
+    title: JAG
   '2.1':
     description: This is new decription For RULE
     punishment: мут 10 мин. → варн
